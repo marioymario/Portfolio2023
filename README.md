@@ -5,7 +5,7 @@ Hi, my name is Mario Hevia and this is a portfolio containing the projects for t
 
 Here you can find information related to three projects in three folders:
 
-- Automatidata folder[folder](https://github.com/marioymario/Portfolio2023/tree/main/automatidata)
+- Automatidata folder [folder](https://github.com/marioymario/Portfolio2023/tree/main/automatidata)
   - dataInsightDS folder: **Second** part of the project, focus on EDA.
   - MLDS: **Fifth** part of the project focus on Machine Learning.
   - pythonDS: **First** part of the project, focus on first observation of the data.
